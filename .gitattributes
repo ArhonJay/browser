@@ -1,0 +1,7 @@
+# Set default behavior to automatically normalize line endings.
+* text=auto
+
+# Handle specific file types, if needed.
+*.json text
+*.md text
+*.sh text eol=lf
